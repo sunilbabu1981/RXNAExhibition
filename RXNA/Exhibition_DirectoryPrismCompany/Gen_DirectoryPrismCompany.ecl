@@ -1,0 +1,17 @@
+﻿OPTIONS:-gh
+MODULE:Exhibition_DirectoryPrismCompany
+FILENAME:DirectoryPrismCompany
+FIELD:CompanyID:TYPE(UNICODE):0,0
+FIELD:vchCompanyName:TYPE(UNICODE):0,0
+FIELD:vchAddress1:TYPE(UNICODE):0,0
+FIELD:vchAddress2:TYPE(UNICODE):0,0
+FIELD:vchAddress3:TYPE(UNICODE):0,0
+FIELD:vchCity:TYPE(UNICODE):0,0
+FIELD:vchRegionName:TYPE(UNICODE):0,0
+FIELD:vchCountry:TYPE(UNICODE):0,0
+FIELD:vchPostCode:TYPE(UNICODE):0,0
+FIELD:vchPhone:TYPE(UNICODE):0,0
+FIELD:vchFax:TYPE(UNICODE):0,0
+FIELD:vchEmailAddress:TYPE(UNICODE):0,0
+FIELD:vchContactFirstName:TYPE(UNICODE):0,0
+FIELD:vchContactLastName:TYPE(UNICODE):0,0

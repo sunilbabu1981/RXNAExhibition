@@ -1,0 +1,1 @@
+﻿EXPORT In_MYSHistory := DATASET('~rxna::mys::history',layout_MYSHistory, csv(heading(1), separator(','), quote('"')));

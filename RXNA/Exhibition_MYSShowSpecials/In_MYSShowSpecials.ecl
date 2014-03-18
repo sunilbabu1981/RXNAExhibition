@@ -1,0 +1,2 @@
+﻿EXPORT In_MYSShowSpecials := DATASET('~RXNA::MYS::SHOWSPECIALS', LAYOUT_MYSShowSpecials,
+CSV(HEADING(1), SEPARATOR(','), QUOTE('"')));

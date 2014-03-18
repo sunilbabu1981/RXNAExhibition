@@ -1,0 +1,1 @@
+﻿EXPORT In_MYSCus2Ex := DATASET('~rxna::mys::customerid2exhibitorid', layout_MYSCus2Ex, CSV(HEADING(1), SEPARATOR(','), QUOTE('"')));

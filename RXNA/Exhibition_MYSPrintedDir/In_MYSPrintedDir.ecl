@@ -1,0 +1,1 @@
+﻿EXPORT In_MYSPrintedDir := dataset('~rxna::mys::printed_directory',layout_MYSPrintedDir, CSV(HEADING(1), SEPARATOR(','), QUOTE('"')));

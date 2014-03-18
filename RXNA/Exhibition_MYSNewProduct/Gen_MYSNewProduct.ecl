@@ -1,0 +1,1 @@
+﻿EXPORT Gen_MYSNewProduct := 'todo';

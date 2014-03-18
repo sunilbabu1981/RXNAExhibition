@@ -1,0 +1,1 @@
+﻿EXPORT In_ReedFreightData := DATASET('~rxna::freeman::reed_freight_data',layout_ReedFreightData, csv( HEADING(1),SEPARATOR(','), QUOTE('"')));

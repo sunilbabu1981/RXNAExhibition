@@ -1,0 +1,1 @@
+﻿EXPORT In_DirectoryExhibitorData :=  DATASET('~rxna::directory::directories_exhibitor ',layout_DirectoryExhibitorData, csv( HEADING(1),SEPARATOR(','), QUOTE('"')));

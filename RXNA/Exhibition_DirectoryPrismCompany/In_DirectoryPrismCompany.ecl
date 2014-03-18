@@ -1,0 +1,1 @@
+﻿EXPORT In_DirectoryPrismCompany := DATASET('~rxna::directory::PRISMCOMPANY',layout_DirectoryPrismCompany, csv( HEADING(1), QUOTE('"')));

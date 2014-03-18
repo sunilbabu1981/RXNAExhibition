@@ -1,0 +1,1 @@
+﻿EXPORT In_ReedSubgroupData := DATASET('~rxna::freeman::reed_subgroup_data',layout_ReedSubgroupData, csv( HEADING(1),SEPARATOR(','), QUOTE('"')));

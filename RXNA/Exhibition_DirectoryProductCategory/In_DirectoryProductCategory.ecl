@@ -1,0 +1,1 @@
+﻿EXPORT In_DirectoryProductCategory :=  DATASET('~rxna::directory::meta_product_category',exhibition_DirectoryProductCategory.layout_DirectoryProductCategory, csv( separator('\t') ,QUOTE('"')));

@@ -1,0 +1,1 @@
+﻿EXPORT In_DeltaCompanyPoints :=  DATASET('~rxna::baseexhibitor::deltacompanypoints',layout_DeltaCompanyPoints, csv( SEPARATOR(','), QUOTE('"')));

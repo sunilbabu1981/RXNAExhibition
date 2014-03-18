@@ -1,0 +1,24 @@
+﻿EXPORT Layout_ShowExtractAccount := RECORD
+  UNSIGNED4 CustomerID;
+  UNICODE77 CustomerName;
+  UNICODE88 Addr1;
+  UNICODE62 Addr2;
+  UNICODE27 Addr3;
+  UNICODE50 City;
+  UNICODE4 State;
+  UNICODE20 StateDesc;
+  UNICODE10 PostalCode;
+  UNICODE2 CountryCode;
+  UNICODE27 CountryDesc;
+  UNICODE17 PhoneMain;
+  UNICODE15 FaxMain;
+  UNICODE15 PhoneTollFree;
+  UNICODE41 EmailCompany;
+  UNICODE67 WebAddressCompany;
+  UNSIGNED4 PrimaryPhone;
+  UNICODE16 PrimaryFirstName;
+  UNICODE20 PrimaryLastName;
+  UNICODE23 CreateDate;
+  UNSIGNED1 ValidAddrFlag;
+  UNSIGNED1 PrivacyFlag;
+  END;

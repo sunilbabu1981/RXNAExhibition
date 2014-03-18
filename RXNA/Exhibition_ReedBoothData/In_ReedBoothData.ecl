@@ -1,0 +1,1 @@
+﻿EXPORT In_ReedBoothData :=  DATASET('~rxna::freeman::reed_booth_data',layout_ReedBoothData, csv( HEADING(1),SEPARATOR(','), QUOTE('"')));

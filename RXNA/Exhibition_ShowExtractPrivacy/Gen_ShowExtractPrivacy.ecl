@@ -1,0 +1,14 @@
+﻿
+OPTIONS:-gh
+MODULE:Exhibition_ShowExtractPrivacy
+FILENAME:ShowExtractPrivacy
+
+FIELD:CustomerID:TYPE(UNICODE):0,0
+FIELD:PrivacyIntMail:TYPE(UNICODE):0,0
+FIELD:PrivacyIntPhone:TYPE(UNICODE):0,0
+FIELD:PrivacyIntFax:TYPE(UNICODE):0,0
+FIELD:PrivacyIntEmail:TYPE(UNICODE):0,0
+FIELD:PrivacyExtMail:TYPE(UNICODE):0,0
+FIELD:PrivacyExtPhone:TYPE(UNICODE):0,0
+FIELD:PrivacyExtFax:TYPE(UNICODE):0,0
+FIELD:PrivacyExtEmail:TYPE(UNICODE):0,0

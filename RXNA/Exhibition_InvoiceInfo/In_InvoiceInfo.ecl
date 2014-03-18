@@ -1,0 +1,1 @@
+﻿EXPORT In_InvoiceInfo :=  DATASET('~rxna::baseexhibitor::invoiceinfo',Exhibition_INVOICEINFO.layout_invoiceinfo, csv(SEPARATOR('\t'), QUOTE('')));
